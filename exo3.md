@@ -1,19 +1,21 @@
 # EXO3: *``LE JOUNAL``*
 
-1. ls
+1. pwd
 
-2. mkdir **``actualites politiques``**
+2. ls
 
-3. cd *politiques*
+3. mkdir -p **``actualites/politiques``**
 
-4. mkdir **``election``**
+4. cd *politiques*
 
-5. cd *election*
+5. mkdir **``election``**
 
-6. touch *candidats.txt*
+6. cd *election*
 
-7. echo *"mahamadou omar richard" >>candidats.txt*
+7. touch *candidats.txt*
 
-8. cd *actualites*
+8. echo *"mahamadou omar richard" >>candidats.txt*
 
-9. mkdir **buzz**
+9. cd *actualites*
+
+10. mkdir **buzz**

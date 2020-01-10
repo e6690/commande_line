@@ -1,26 +1,28 @@
 #  EXO2: *``MON CONTENEUR``*
 --------------------
 
-1. ls
+1. pwd
 
-2. mkdir **``conteneur``**
+2. ls
 
-3. cd *```conteneur```*
+3. mkdir **``conteneur``**
 
-4. mkdir **`voiture`**
+4. cd *```conteneur```*
 
-5. mkdir **``ustensiles``**
+5. mkdir **`voiture`**
 
-6. mkdir **``electronique``**
+6. mkdir **``ustensiles``**
 
-7. cd *`voitures`*
+7. mkdir **``electronique``**
 
-8. touch *mes_voitures.txt*
+8. cd *`voitures`*
 
-9. echo *"assiettes cuillers fourchettes" >>cuisine.txt*
+9. touch *mes_voitures.txt*
 
-10. cat *cuisine.txt*
+10. echo *"assiettes cuillers fourchettes" >>cuisine.txt*
 
-11. cd *conteneur*
+11. cat *cuisine.txt*
 
-12. ls -a
+12. cd *conteneur*
+
+13. ls -a
